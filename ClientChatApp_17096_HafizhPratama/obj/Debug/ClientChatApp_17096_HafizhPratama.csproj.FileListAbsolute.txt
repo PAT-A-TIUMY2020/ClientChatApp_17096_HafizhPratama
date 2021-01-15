@@ -1,0 +1,10 @@
+C:\Users\My ASUS\source\repos\ClientChatApp_17096_HafizhPratama\ClientChatApp_17096_HafizhPratama\bin\Debug\ClientChatApp_17096_HafizhPratama.exe.config
+C:\Users\My ASUS\source\repos\ClientChatApp_17096_HafizhPratama\ClientChatApp_17096_HafizhPratama\bin\Debug\ClientChatApp_17096_HafizhPratama.exe
+C:\Users\My ASUS\source\repos\ClientChatApp_17096_HafizhPratama\ClientChatApp_17096_HafizhPratama\bin\Debug\ClientChatApp_17096_HafizhPratama.pdb
+C:\Users\My ASUS\source\repos\ClientChatApp_17096_HafizhPratama\ClientChatApp_17096_HafizhPratama\bin\Debug\WCFService_2Way_17096.dll
+C:\Users\My ASUS\source\repos\ClientChatApp_17096_HafizhPratama\ClientChatApp_17096_HafizhPratama\bin\Debug\WCFService_2Way_17096.pdb
+C:\Users\My ASUS\source\repos\ClientChatApp_17096_HafizhPratama\ClientChatApp_17096_HafizhPratama\bin\Debug\WCFService_2Way_17096.dll.config
+C:\Users\My ASUS\source\repos\ClientChatApp_17096_HafizhPratama\ClientChatApp_17096_HafizhPratama\obj\Debug\ClientChatApp_17096_HafizhPratama.csproj.CoreCompileInputs.cache
+C:\Users\My ASUS\source\repos\ClientChatApp_17096_HafizhPratama\ClientChatApp_17096_HafizhPratama\obj\Debug\ClientChatApp_17096_HafizhPratama.csproj.CopyComplete
+C:\Users\My ASUS\source\repos\ClientChatApp_17096_HafizhPratama\ClientChatApp_17096_HafizhPratama\obj\Debug\ClientChatApp_17096_HafizhPratama.exe
+C:\Users\My ASUS\source\repos\ClientChatApp_17096_HafizhPratama\ClientChatApp_17096_HafizhPratama\obj\Debug\ClientChatApp_17096_HafizhPratama.pdb
